@@ -12,7 +12,7 @@ _Versions Supported: Vue 2 and Vue 3_
 
 ![SnippetDemo](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/SnippetDemo.gif)
 
-## Installation
+## Installation123
 
 _Either_
 
